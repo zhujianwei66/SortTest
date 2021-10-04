@@ -1,0 +1,2 @@
+D:\MyWorkPlace\CPPcode\VS2019code\Project1\x64\Debug\Project1.exe
+D:\MyWorkPlace\CPPcode\VS2019code\SortTest\x64\Debug\Project1.exe
